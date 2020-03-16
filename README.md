@@ -1,2 +1,2 @@
 # cbse
-project for cbses course
+project for cbse course
